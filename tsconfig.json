@@ -15,6 +15,6 @@
   },
   "include": [
     "shims.d.ts",
-    "src/**/*",
+    "src/**/*"
   ]
 }

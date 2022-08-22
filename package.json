@@ -46,8 +46,8 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@bi1lqv/eslint-config": "^0.26.1",
     "@antfu/ni": "^0.17.2",
+    "@bi1lqv/eslint-config": "^0.26.1",
     "@types/node": "^18.7.5",
     "bumpp": "^8.2.1",
     "eslint": "^8.22.0",
