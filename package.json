@@ -4,9 +4,8 @@
   "version": "0.0.0",
   "packageManager": "pnpm@7.9.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "BI1LQV <bi1lqv.y@gmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
   "homepage": "https://github.com/antfu/pkg-name#readme",
   "repository": {
     "type": "git",
@@ -47,9 +46,8 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.26.1",
+    "@bi1lqv/eslint-config": "^0.26.1",
     "@antfu/ni": "^0.17.2",
-    "@antfu/utils": "^0.5.2",
     "@types/node": "^18.7.5",
     "bumpp": "^8.2.1",
     "eslint": "^8.22.0",
